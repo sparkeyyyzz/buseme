@@ -42,7 +42,7 @@ export default function SurpriseSection({ onNext }: SurpriseSectionProps) {
                 <div className="bg-gradient-to-br from-pink-50 to-rose-50 rounded-2xl p-4 sm:p-6 md:p-8 flex items-center justify-center min-h-[300px]">
                   {/* BURAYA FOTOĞRAF EKLENDİ */}
                   <img
-                    src="/ask.jpg" // Fotoğrafın yolu (public klasöründe varsayıldı)
+                    src="https://i.imgur.com/fDBTEYF.jpeg" // Fotoğrafın yolu (public klasöründe varsayıldı)
                     alt="Senin için özel bir anı" // Erişilebilirlik için alt metni
                     className="max-w-full h-auto rounded-xl shadow-lg border-2 border-pink-200 object-cover max-h-[400px]" 
                   />
